@@ -93,3 +93,16 @@ button.cancel {
 .text {
   margin-bottom: 16px;
 }
+
+
+.ricon {
+  display: flex;
+  align-items: flex-end;
+}
+
+button.more {
+  background: violet;
+  border: 1px dotted lightsalmon;
+  display: flex;
+  align-items: end;  
+}
